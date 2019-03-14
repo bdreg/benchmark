@@ -2,4 +2,4 @@
 
 Samling av rapporter for benchmarking
 
-[Test](test007.html)
+[Test](test.html)
